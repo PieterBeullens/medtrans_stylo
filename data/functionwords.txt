@@ -1,4 +1,5 @@
 atqui / ATQVI
+aut / AVT
 autem / AVTEM
 certe
 ceu / CEV
@@ -17,6 +18,7 @@ forsitan
 fortassis
 ideo
 igitur / IGITVR
+ita
 itaque / ITAQVE
 iterum / ITERVM
 mox
@@ -29,6 +31,7 @@ puta / PVTA
 quando / QVANDO
 quemadmodum / QVEMADMODVM
 quia / QVIA
+quidem / QVIDEM
 quippe / QVIPPE
 quod / QVOD
 quoniam / QVONIAM
@@ -39,6 +42,7 @@ rursus / RVRSVS
 sane
 scilicet
 sepe / saepe
+sic
 sicut / SICVT
 siquidem / SIQVIDEM
 tamquam / tanquam / TAMQVAM / TANQUAM
