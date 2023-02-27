@@ -1,0 +1,29 @@
+aut / AVT
+autem / AVTEM
+cum / CVM
+enim
+ergo
+etiam / eciam
+igitur / IGITVR
+ita
+itaque / ITAQVE
+iterum / ITERVM
+nam
+namque / NAMQVE / nanque / NANQVE
+puta / PVTA
+quando / QVANDO
+quemadmodum / QVEMADMODVM
+quia / QVIA
+quidem / QVIDEM
+quod / QVOD
+quoniam / QVONIAM
+quoque / QVOQVE
+rursus / RVRSVS
+sane
+sic
+sicut / SICVT
+tamquam / tanquam / TAMQVAM / TANQUAM
+ut / VT
+utique / VTIQVE
+velut / uelut / VELVT
+vero / uero / VERO
