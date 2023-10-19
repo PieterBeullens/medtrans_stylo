@@ -34,12 +34,14 @@ def preprocess_and_slice_text_files(
             with a .txt extension.
         sample_size (int=1000): Number of words per chunk. Words at the end of
             the file that do not make a full chunk are discarded.
+        overlap_ratio (int=1): Amount of overlap, higher is more overlap. A
+            ratio of two advances the rolling window by half of the sample_size.
 
     Returns:
         dict[str,list]: The results. Each chunk will by indexed by a name
             constructed from the filename with the chunk number, e.g. MyFile.txt
-            will produce MyFile_0, MyFile_1 ... The words in the chunk are returned
-            as a list.
+            will produce MyFile_0, MyFile_1 ... The words in the chunk are
+            returned as a list.
 
     """
     processed_texts = {}
